@@ -20,7 +20,7 @@ for (let i = 0; i < links.length; i++) {
 for (let i = 0; i < divs.length; i++) {
   if (divs[i].id === "container2") {
     // Mengubah teks di dalam container2
-    divs[i].innerHTML = "<h2>Sulthon Aqthoris Sama</h2><p>23106050082.</p>";
+    divs[i].innerHTML = "<h2>Sulthon Aqthoris Sama</h2><p>NIM.</p>";
 
     // Mengubah style font size
     divs[i].style.fontSize = "18px";
